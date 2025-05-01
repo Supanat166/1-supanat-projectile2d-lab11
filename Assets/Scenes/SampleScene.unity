@@ -150,6 +150,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cfe09f4b3dad1494d9f5682900e1aa58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Shootpoint: {fileID: 1011100849}
+  Target: {fileID: 1757874195}
+  bulletPrefab: {fileID: 4706632936724417439, guid: 89abab0b2fc6d854d854dbded7e0ba3a, type: 3}
 --- !u!61 &488823918
 BoxCollider2D:
   m_ObjectHideFlags: 0
